@@ -1,0 +1,7 @@
+{
+  "name": "funderscore",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
